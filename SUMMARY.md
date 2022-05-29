@@ -2,14 +2,18 @@
 
 * [😇 README](README.md)
 
-## 01 OOPs Concept - Part I
+## 01 OOPs Concept
 
-* [📒 Handwritten Notes](01-oops-concept-part-i/handwritten-notes.md)
+* [📒 Handwritten Notes](01-oops-concept/handwritten-notes.md)
 
-## 02 OOPs Concepts - Part II
+## 02 OOPs Access Modifiers and Pillars
 
-* [📒 Handwritten Notes](02-oops-concepts-part-ii/handwritten-notes.md)
+* [📒 Handwritten Notes](02-oops-access-modifiers-and-pillars/handwritten-notes.md)
 
-## 03 OOPs Concepts - Part III
+## 03 OOPs Design Principles - Part II
 
-* [📒 Handwritten Notes](03-oops-concepts-part-iii/handwritten-notes.md)
+* [📒 Handwritten Notes](03-oops-design-principles-part-ii/handwritten-notes.md)
+
+## 04 OOPs Design Patterns - Part I
+
+* [📒 Handwritten Notes](04-oops-design-patterns-part-i/handwritten-notes.md)
